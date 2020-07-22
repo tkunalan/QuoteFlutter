@@ -1,4 +1,4 @@
-# firstflutterapp
+# Quote Flutter App
 
 A new Flutter application.
 
